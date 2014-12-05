@@ -1204,7 +1204,7 @@ a[class*="fa"]:hover {
     .menu-open .main-menu {
         left: 25%;
     }
-    [class|='ba-width-small'] + [class|='ba-width-small'] {
+    .ba-grid > [class|='ba-width-small'] + [class|='ba-width-small'] {
         margin-top: 20px;
     }
 
