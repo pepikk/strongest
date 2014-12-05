@@ -1205,7 +1205,7 @@ a[class*="fa"]:hover {
         left: 25%;
     }
     .ba-grid > [class|='ba-width-small'] + [class|='ba-width-small'] {
-        margin-top: 20px;
+        margin-top: 20px !important;
     }
 
 }
