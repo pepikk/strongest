@@ -214,6 +214,9 @@ header i.fa.fa-search {
 
     z-index: 6;
 }
+.search-button i.fa.fa-search:hover {
+    color: #fff;
+}
 .search-box {
     position: absolute;
     display: inline-block;
